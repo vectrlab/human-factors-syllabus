@@ -1,0 +1,309 @@
+---
+title: "Syllabus"
+book_filename: psyc173
+output:
+  pdf_document:
+    toc: no
+  html_document:
+    toc: yes
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="center">**San Jos&eacute; State University**</p>
+
+<p align="center">**Department of Psychology**</p>
+
+<p align="center">**PSYC 173: Human Factors**</p>
+
+<p align="center">**Section 1, Fall 2022**</p>
+
+<p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
+
+
+# Instructor Contact Information
+Instructor:	      David Schuster, Ph.D.
+
+Office Location:	DMH 315
+
+Telephone:	      408-924-5659
+
+Email:	          david.schuster@sjsu.edu
+
+Office Hours:	    4:00-4:30pm Tuesdays and Thursdays; also available by appointment
+
+# Course Information
+Classroom:	      DMH 165
+
+Class Days/Time:	Tues. & Thurs., 4:30pm – 5:45pm
+
+Prerequisites:	  PSYC 001 or equivalent
+
+# Welcome!
+
+My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore how the interdisciplinary field of human factors can increase the safety and effectiveness of human-machine systems.
+
+I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
+
+# Course Description
+How can technology make our lives safer, more efficient, and more enjoyable? To answer this question, this course will introduce you to human factors, a field focused on understanding interactions among people, technologies, and other elements of a human-machine system. Human factors professionals improve human-machine systems by considering the capabilities, characteristics, and limitations of people.
+
+The catalog description of this course is: Human psychology and physiological characteristics and methods for taking these into account in designs and development of human-machine systems. Current human factor engineering efforts in lab, design process and operational environment.
+
+## Course Format
+
+This is a technology intensive, in-person course. Required technology is described in the [required materials section](#requiredmaterials) of this document.
+
+# Learning Outcomes {#learningoutcomes}
+
+## Course Learning Outcomes {#clos}
+
+The major goal of this course is to show students how applied psychological research informs practice in domains of human-technology interaction.
+
+Upon successful completion of this course, students will be able to:
+
+-	CLO1 - Describe human factors, appropriately use its fundamental terminology, and describe its importance in the effectiveness of human-machine systems.
+
+-	CLO2 - Apply research, principles, and methods of human factors to human-machine system design, system evaluation, and training.
+
+-	CLO3 - Describe how human capabilities and limitations interact with design to affect human-machine system performance.
+
+The learning outcomes will be assessed via assignments and the final project. 
+
+## Program Learning Outcomes {#plos}
+Upon successful completion of the requirements for a major in psychology, students will be able to:
+
+-	PLO1 – Knowledge Base of Psychology – identify, describe, and communicate the major concepts, theoretical perspectives, empirical findings, and historical trends in psychology
+
+-	PLO2 – Research Methods in Psychology – design, implement, and communicate basic research methods in psychology, including research design, data analysis, and interpretations
+
+-	PLO3 – Critical Thinking Skills in Psychology – use critical and creative thinking, skeptical inquiry, and a scientific approach to address issues related to behavior and mental processes
+
+-	PLO4 – Application of Psychology – apply psychological principles to individual, interpersonal, group, and societal issues
+
+-	PLO5 – Values in Psychology – value empirical evidence, tolerate ambiguity, act ethically, and recognize their role and responsibility as a member of society
+
+Each assignment in this course maps onto one or more of these PLOs, with full coverage over all assignments in the course. PLOs 1-3 are emphasized in the first weeks of the course, and PLOs 2-5 are emphasized in the subsequent weeks of the course.
+
+# Required Materials {#requiredmaterials}
+
+## Canvas and E-Mail
+
+All graded assignments will be accepted in electronic form using the Canvas learning management system assignments page (Canvas is available at https://sjsu.instructure.com/). Communication regarding the course will be posted to Canvas or sent via the e-mail address linked to your MySJSU account. It is your responsibility to make sure you are enrolled in Canvas and receiving my emails.
+
+## Required Texts/Readings
+Lee, J. D., Wickens, C. D., Liu, Y., & Boyle, L. N. (2017). _Designing for people: An introduction to human factors engineering (3rd ed.)_. Charleston, SC: CreateSpace. ISBN: 9781539808008
+
+You do need the textbook all semester. Besides using it for readings, we will use the textbook as reference material (e.g., tables of anthropometry data). Additional readings will be made available on Canvas.
+
+As of this writing, a scanned verison of the first chapter is available on the [author's ResearchGate page](https://www.researchgate.net/publication/319402797_Designing_for_People_An_introduction_to_human_factors_engineering).
+
+The author has also [posted](https://designing4people.com/index.php/2019/07/30/an-e-textbook-designing-for-people-an-introduction-to-human-factors-engineering-a-good-thing/) that Amazon is now offering an electronic version for $5. I have not used this edition yet, but if it is complete and you can access it during class on your laptop or tablet, it appears to be a low-cost option.
+
+## Computer
+
+A laptop or tablet computer with Internet access will be necessary to participate in class activities and for your use outside of class. In lieu of a computer or tablet, a smartphone may be used but is unlikely to provide a good experience. You will need a keyboard. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. I will work with you to find acceptable free computing resources.
+
+Because it is distracting, please avoid non-class technology use during class.
+
+We may occasionally hold meetings and activities via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable and cover your webcam when not in use.
+
+This course may require occasional use of software such as Excel and Word. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
+
+In case you need them, these software packages are available to you at no cost:
+
+- [RStudio](https://www.rstudio.com)
+
+- [R](https://cran.r-project.org)
+
+- [SPSS](https://www.sjsu.edu/it/services/collaboration/software/instructions.php)
+
+- [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+
+- [Adobe Creative Cloud](https://www.sjsu.edu/ecampus/software-tools/teaching-tools/video-creative/adobe/students.php)
+
+- [Microsoft Office](https://www.office.com/getoffice365)
+
+- [Google Drive](https://sjsu.drive.google.com)
+
+# Grading Policy
+
+## Determination of Grades
+
+Grades will be available to you on Canvas throughout the semester. Grades are assigned based on your final point total out of 1000 points for the course:
+
+--------------------------------------
+Grade                 Points
+--------------------- ----------------
+A plus	              > 965 points
+
+A	                    916 to 965 points
+
+A minus	              896 to 915 points
+
+B plus                866 to 895 points
+
+B	                    816 to 865 points
+
+B minus	              796 to 815 points
+
+C plus	              766 to 795 points
+
+C	                    716 to 765 points
+
+C minus	              696 to 715 points
+
+D plus	              666 to 695 points
+
+D	                    616 to 665 points
+
+D minus               595 to 615 points
+
+F	                    < 595 points
+--------------------------------------
+
+## Rounding is Included in the Grading Scale
+
+The point totals reflect rounding up to the nearest percentage. For example, an A- would normally require 900 points (or 90% of 1000 points). With rounding, it only requires 896 points (or 89.6% of 1000 points). Because rounding is built into the grading scale, your grade will be based on your final point total, rounded to the nearest whole point (so, 895.6 points is an A-, but 895.4 points is a B+). To be fair to everyone in the class, these are firm cutoffs.
+
+# Course Requirements and Assignments {#assignments}
+
+## Activity Assignments (50% of grade = 500 points)
+An activity will be available on each week’s topic and posted to Canvas. Eleven activity assignments will be worth 50 points each, but the lowest score will be dropped, for a total of 500 points. Each assignment will be graded according to the rubric posted to Canvas. Typically, part of every class meeting each week will be dedicated to an activity. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. Activities will be assigned on most Tuesdays and will be due immediately at the start of class on the following Tuesday. Activities typically start on Tuesday and may have homework required before Thursday’s class (e.g., picking a topic) and after Thursday’s class (e.g., writing up a report); all parts are required to receive full credit. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. Maps to CLO1-3.
+
+## Project Milestone Assignments (20% of grade = 200 points)
+You will be asked to prepare a project on a topic of your interest. The points for the project are divided into two milestone assignments, each worth 100 points. Each project milestone assignment will be scored according to the rubric on Canvas. Maps to CLO1-3.
+
+## Final Project (30% of grade = 300 points)
+The final project follows directly from the milestone assignments and is worth 300 points. More details about the project, including rubrics for grading, will be posted to Canvas during the semester. As part of the project, you will present your work in a poster presentation or talk. This presentation will take place across two class meetings, and you must be present at both to receive full credit; if not, a 20% final project penalty will apply. Without an extension, project assignments submitted late, even by a few minutes, will be accepted with a 25% late point deduction within 24 hours of the due date. Project assignments submitted more than 24 hours after the due date will not be accepted for credit. If events outside your control impact completion of this assignment, you should meet with me to discuss options for a course incomplete. Maps to CLO1-3.
+
+
+## Resubmission and Extensions Make-ups, and Grading Process {#makeup}
+
+### You can request an extension.
+
+Assignments not submitted by the due date posted on Canvas will be assigned a grade of zero unless you complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an extension or makeup of the assignment. When you need an extension, please complete this form as soon as you can. 
+
+Even with an extension, I can accept assignments until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. Please allow extra time for me to grade late-submitted assignments.
+
+### We will work together on make-ups of scheduled activities.
+
+Class activities that are scheduled, such as a guest speaker, cannot be recreated easily. If you need a makeup assignment (e.g., you will miss the talk needed to complete an assignment, or even if you had life events and could not focus on the talk), please contact me. I will work with you to create an alternative assignment. There is no need to pretend you attended an activity that you missed.
+
+## Final examination or evaluation {#final}
+
+Faculty members are required to have a culminating activity for their courses, which can include a final examination, a final research paper or project, a final creative work or performance, a final portfolio of work, or other appropriate assignment.
+
+The culminating activity for this course will be the final presentation.
+
+# Classroom Environment {#environment}
+
+We agree to:
+
+-	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
+    + Affirming that ableism, classism, racism, sexism, transphobia, heterosexism, and xenophobia will not be acceptable in the physical and digital spaces that make up our course. 
+  
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
+  
+    + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
+  
+    + We understand that we are all doing our best as we face our own challenges. I will expect that you put in reasonable effort on your assignments. You can expect patience and help whenever you struggle with course material. And, I am always available to meet with you should life events impact your progress in the course or success in your program.
+
+- **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
+
+-	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
+
+-	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation by people of diverse backgrounds and experiences. To support this goal, this course will incorporate discussion of social justice when relevant to the course and support your evaluation of how our discipline has/can/will address social justice, as well as how it has contributed to social injustice. 
+
+# University Policies {#policies}
+
+Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
+
+You must obtain the instructor’s permission to make any audio or video recordings in this class.
+
+Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
+
+# Library Liaison 
+Our library liaison is Christa Bailey. Email: christa.bailey@sjsu.edu
+
+# Additional Information
+All assignments in this course should be submitted in APA format. The writing requirement is described above.
+
+# Course Schedule {#schedule}
+
+The course schedule is tentative and likely to change; modifications will be posted to this page.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Week Date                   Topics                                                                      Textbook    Assignments
+---- ---------------------- --------------------------------------------------------------------------  ----------- ----------------------
+1	    Tue., Aug. 23         Definitions and history                                                       Ch. 1          
+
+      Thu., Aug. 25	        
+      
+2	    Tue., Aug. 30         Human factors methods of practice                                             Ch. 2     Activity 1, cta
+      
+      Thu., Sep. 1	        
+
+3	    Tue., Sep. 6          Human factors scientific methods                                              Ch. 3       
+      
+      Thu., Sep. 8	        
+ 
+4	    Tue., Sep. 13         Human performance                                                             Ch. 4     Activity 2, waldo
+
+      Thu., Sep. 15	        
+
+5	    Tue., Sep. 20         Cognitive factors                                                             Ch. 6     Activity 3, cardsort
+
+      Thu., Sep. 22	        
+
+6	    Tue., Sep. 27         Decision making & macrocognition                                              Ch. 7     Activity 4, MAUT
+
+      Thu., Sep. 29	        
+
+7	    Tue., Oct. 4          [HFES](www.hfes.org) Conference Week, **No Class Meetings**                             Activity 5, article                                      
+
+      Thu., Oct. 6	        
+
+8	    Tue., Oct. 11         Guest speaker: Evan Silverman, Google (TBD)                                   Ch. 15    Activity 6, reflection
+
+      Thu., Oct. 13	        Stress, workload, and safety
+
+9	    Tue., Oct. 18         Human-computer interaction                                                    Ch. 10    Activity 7, prototype
+
+      Thu., Oct. 20	        
+
+10	  Tue., Oct. 25         Displays & controls                                                           Ch. 8     Activity 8, heuristic                                                           
+
+      Thu., Oct. 27	        
+
+11	  Tue., Nov. 1          Specific applications and careers                                                       Project milestone 1
+
+      Thu., Nov. 3	        Guest speaker: Thomas Alicia, U.S. Army Technology Development Directorate 
+
+12	  Tue., Nov. 8          Automation                                                                   Ch. 11     Activity 9, robot
+
+      Thu., Nov. 10	         
+
+13	  Tue., Nov. 15         Physical ergonomics & anthropometry                                          Ch. 12     Activity 10, cut-desk
+
+      Thu., Nov. 17	        
+
+14	  Tue., Nov. 22         Project workshop                                                                                                    
+
+      Thu., Nov. 24	        Thanksgiving, No class meeting (Thu.)
+
+15	  Tue., Nov. 29         Training and job design                                                      Ch. 17     Activity 11, train    
+
+      Thu., Dec. 1	        
+      
+16    Tue., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm                            Project milestone 2
+
+Final Wed, Dec. 14	        Project presentations, 2:45pm - 5:00pm                                                  Final project
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
