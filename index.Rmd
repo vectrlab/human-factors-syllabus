@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -247,9 +247,9 @@ Week Date                   Topics                                              
       
       Thu., Sep. 1	        
 
-3	    Tue., Sep. 6          Human factors scientific methods                                              Ch. 3       
+3	    Tue., Sep. 6          Guest speaker: Gabby Seropian, Google                                         Ch. 3       
       
-      Thu., Sep. 8	        
+      Thu., Sep. 8          Human factors scientific methods	        
  
 4	    Tue., Sep. 13         Human performance                                                             Ch. 4     Activity 2, waldo
 
@@ -263,11 +263,11 @@ Week Date                   Topics                                              
 
       Thu., Sep. 29	        
 
-7	    Tue., Oct. 4          [HFES](www.hfes.org) Conference Week, **No Class Meetings**                             Activity 5, article                                      
+7	    Tue., Oct. 4          Guest speaker: Evan Silverman, Google                                        Ch. 15    Activity 6, reflection
 
       Thu., Oct. 6	        
 
-8	    Tue., Oct. 11         Guest speaker: Evan Silverman, Google (TBD)                                   Ch. 15    Activity 6, reflection
+8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**                             Activity 5, article                                      
 
       Thu., Oct. 13	        Stress, workload, and safety
 
@@ -277,7 +277,7 @@ Week Date                   Topics                                              
 
 10	  Tue., Oct. 25         Displays & controls                                                           Ch. 8     Activity 8, heuristic                                                           
 
-      Thu., Oct. 27	        
+      Thu., Oct. 27	        Guest speaker: Daniel Rosenberg, rCDO and SJSU
 
 11	  Tue., Nov. 1          Specific applications and careers                                                       Project milestone 1
 
