@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -263,19 +263,18 @@ Week Date                   Topics                                              
 
       Thu., Sep. 29	        
 
-7	    Tue., Oct. 4          Guest speaker: Evan Silverman, Google                                        Ch. 15    Activity 6, reflection
+7	    Tue., Oct. 4          Guest speaker: Evan Silverman, Google                                        Ch. 15     Activity 5, reflection
 
-      Thu., Oct. 6	        
+      Thu., Oct. 6	        Stress, workload, and safety
 
-8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**                             Activity 5, article                                      
-
-      Thu., Oct. 13	        Stress, workload, and safety
+8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**                             Activity 6, article                                     
+      Thu., Oct. 13	        
 
 9	    Tue., Oct. 18         Human-computer interaction                                                    Ch. 10    Activity 7, prototype
 
       Thu., Oct. 20	        
 
-10	  Tue., Oct. 25         Displays & controls                                                           Ch. 8     Activity 8, heuristic                                                           
+10	  Tue., Oct. 25         Displays & controls                                                           Ch. 8     Activity 8, heuristic                    
 
       Thu., Oct. 27	        Guest speaker: Daniel Rosenberg, rCDO and SJSU
 
@@ -283,11 +282,11 @@ Week Date                   Topics                                              
 
       Thu., Nov. 3	        Guest speaker: Thomas Alicia, U.S. Army Technology Development Directorate 
 
-12	  Tue., Nov. 8          Automation                                                                   Ch. 11     Activity 9, robot
+12	  Tue., Nov. 8          Automation                                                                   Ch. 11     Activity 9, robots
 
       Thu., Nov. 10	         
 
-13	  Tue., Nov. 15         Physical ergonomics & anthropometry                                          Ch. 12     Activity 10, cut-desk
+13	  Tue., Nov. 15         Physical ergonomics & anthropometry                                          Ch. 12     Activity 10, physical
 
       Thu., Nov. 17	        
 
