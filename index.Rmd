@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -267,12 +267,12 @@ Week Date                   Topics                                              
 
       Thu., Oct. 6	        
 
-8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**                             Activity 6, article                                     
+8	    Tue., Oct. 11         [HFES](https://www.hfes.org) Conference Week, **No Class Meetings**                     Activity 6, article                                     
       Thu., Oct. 13	        
 
-9	    Tue., Oct. 18         Guest speaker: Evan Silverman, Google                                        Ch. 15     Activity 7, reflection
+9	    Tue., Oct. 18         Stress, workload, and safety                                                  Ch. 15     Activity 7, reflection
 
-      Thu., Oct. 20	        Stress, workload, and safety
+      Thu., Oct. 20	        Guest speaker: Evan Silverman, Google
 
 10	  Tue., Oct. 25         Displays & controls                                                           Ch. 8     Activity 8, heuristic                    
 
