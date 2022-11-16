@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -291,7 +291,6 @@ Week Date                   Topics                                              
       Thu., Nov. 17	        
 
 14	  Tue., Nov. 22         Project workshop                                                                                                    
-
       Thu., Nov. 24	        Thanksgiving, No class meeting (Thu.)
 
 15	  Tue., Nov. 29         Training and job design                                                      Ch. 17     Activity 11, train    
@@ -300,7 +299,7 @@ Week Date                   Topics                                              
       
 16    Tue., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm                            Project milestone 2
 
-Final Wed, Dec. 14	        Project presentations, 2:45pm - 5:00pm                                                  Final project
+Final Thu., Dec. 8	        Project presentations, 2:45pm - 5:00pm                                                  Final project
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
