@@ -2,10 +2,12 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
+  word_document:
+    toc: true
   pdf_document:
-    toc: no
+    toc: false
   html_document:
-    toc: yes
+    toc: true
     theme: united
 ---
 
@@ -19,32 +21,33 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="center">**PSYC 173: Human Factors**</p>
 
-<p align="center">**Section 1, Fall 2022**</p>
+<p align="center">**Section 1, Fall 2024**</p>
 
 <p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
 
+<p align="center">**This version may be out of date. Find the [latest version here](https://vectrlab.github.io/human-factors-syllabus/index.html)**</p>
 
 # Instructor Contact Information
 Instructor:	      David Schuster, Ph.D.
 
-Office Location:	DMH 315
+Office Location:	DMH 321
 
 Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    4:00-4:30pm Tuesdays and Thursdays; also available by appointment
+Office Hours:	    Tuesdays and Thursdays 2:00pm-2:50pm in person and on [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
 
 # Course Information
-Classroom:	      DMH 165
+Classroom:	      DMH 356
 
-Class Days/Time:	Tues. & Thurs., 4:30pm – 5:45pm
+Class Days/Time:	Tues. & Thurs., 3:00pm - 4:15pm
 
 Prerequisites:	  PSYC 001 or equivalent
 
 # Welcome!
 
-My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore how the interdisciplinary field of human factors can increase the safety and effectiveness of human-machine systems.
+My name is David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching college since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore how the interdisciplinary field of human factors can increase the safety and effectiveness of human-machine systems.
 
 I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
 
@@ -55,7 +58,8 @@ The catalog description of this course is: Human psychology and physiological ch
 
 ## Course Format
 
-This is a technology intensive, in-person course. Required technology is described in the [required materials section](#requiredmaterials) of this document.
+This is an asynchronous online course. That means that you will complete each week's material at your own pace.
+
 
 # Learning Outcomes {#learningoutcomes}
 
@@ -97,21 +101,19 @@ All graded assignments will be accepted in electronic form using the Canvas lear
 ## Required Texts/Readings
 Lee, J. D., Wickens, C. D., Liu, Y., & Boyle, L. N. (2017). _Designing for people: An introduction to human factors engineering (3rd ed.)_. Charleston, SC: CreateSpace. ISBN: 9781539808008
 
-You do need the textbook all semester. Besides using it for readings, we will use the textbook as reference material (e.g., tables of anthropometry data). Additional readings will be made available on Canvas.
+You need the textbook all semester. In addition to using it for readings, we will use the textbook as reference material (e.g., tables of anthropometry data). Additional readings and videos will be made available on Canvas.
 
-As of this writing, a scanned verison of the first chapter is available on the [author's ResearchGate page](https://www.researchgate.net/publication/319402797_Designing_for_People_An_introduction_to_human_factors_engineering).
+As of this writing, a scanned version of the first chapter is available on the [author's ResearchGate page](https://www.researchgate.net/publication/319402797_Designing_for_People_An_introduction_to_human_factors_engineering).
 
-The author has also [posted](https://designing4people.com/index.php/2019/07/30/an-e-textbook-designing-for-people-an-introduction-to-human-factors-engineering-a-good-thing/) that Amazon is now offering an electronic version for $5. I have not used this edition yet, but if it is complete and you can access it during class on your laptop or tablet, it appears to be a low-cost option.
+The author has also [posted](https://designing4people.com/index.php/2019/07/30/an-e-textbook-designing-for-people-an-introduction-to-human-factors-engineering-a-good-thing/) that Amazon is now offering an **electronic version to purchase for $15**. This edition seems to be a scanned PDF version, so it may or may not be suitable for your purposes.
 
 ## Computer
 
-A laptop or tablet computer with Internet access will be necessary to participate in class activities and for your use outside of class. In lieu of a computer or tablet, a smartphone may be used but is unlikely to provide a good experience. You will need a keyboard. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. I will work with you to find acceptable free computing resources.
+A laptop or tablet computer with Internet access will be necessary to participate in class activities and for your use outside of class. In lieu of a computer or tablet, paper notes along with a smartphone may be used, but that combination is unlikely to provide a good experience. You will need a keyboard. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. I will work with you to find acceptable free computing resources.
 
-Because it is distracting, please avoid non-class technology use during class.
+You may choose to meet with me in person or via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required.
 
-We may occasionally hold meetings and activities via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable and cover your webcam when not in use.
-
-This course may require occasional use of software such as Excel and Word. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
+This course may require occasional use of software such as Google Docs and Sheets. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
 
 In case you need them, these software packages are available to you at no cost:
 
@@ -172,32 +174,35 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 # Course Requirements and Assignments {#assignments}
 
 ## Activity Assignments (50% of grade = 500 points)
-An activity will be available on each week’s topic and posted to Canvas. Eleven activity assignments will be worth 50 points each, but the lowest score will be dropped, for a total of 500 points. Each assignment will be graded according to the rubric posted to Canvas. Typically, part of every class meeting each week will be dedicated to an activity. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. Activities will be assigned on most Tuesdays and will be due immediately at the start of class on the following Tuesday. Activities typically start on Tuesday and may have homework required before Thursday’s class (e.g., picking a topic) and after Thursday’s class (e.g., writing up a report); all parts are required to receive full credit. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. Maps to CLO1-3.
+Eleven activity assignments will be worth 50 points each, but the lowest one will be dropped. Each assignment will be graded according to the rubric posted to Canvas. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. Part of every class meeting most weeks will be dedicated to collaborative work on the activity and will require some preparation before class, attending and participating in the activity session, and completion and submission of the assignment after class. Activities will be assigned most weeks and will typically be due immediately at the start of class on the following Tuesday. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. **You may not copy content written by other students or AI or chatbots (e.g., ChatGPT) to write your response to reflection questions, although you may use these tools to facilitate your learning.**. This is the difference between discussing and asking questions about your activity assignment, which is acceptable, and asking someone (or AI) to write your assignment for you, which is not acceptable and will be handled as academic dishonesty. That said, I will always encourage you to start with me for your questions, as AI tools are still emerging and can be unreliable. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps to CLO1-3.
 
-## Project Milestone Assignments (20% of grade = 200 points)
-You will be asked to prepare a project on a topic of your interest. The points for the project are divided into two milestone assignments, each worth 100 points. Each project milestone assignment will be scored according to the rubric on Canvas. Maps to CLO1-3.
+## Reflection Assignments (15% of grade = 150 points)
+Eleven reflection assignments are worth 15 points each, but the lowest one will be dropped. The purpose of the reflection assignments are to help you think actively about the lecture and textbook content and connect it to your own experience. Part of every class meeting most weeks will be dedicated to collaborative work on the reflection assignment, and you must be present in class to complete it. This is graded for completion; it is okay to not have the right answer, but it does need to reflect your thinking about the material. **Reflection questions must be written entirely using your own words, and you may not use AI or chatbots (e.g., ChatGPT) to write your response to reflection questions**.  This is because the goal of this assignment is for you to think about the material as you write. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps onto CLOs 1-3.
 
-## Final Project (30% of grade = 300 points)
-The final project follows directly from the milestone assignments and is worth 300 points. More details about the project, including rubrics for grading, will be posted to Canvas during the semester. As part of the project, you will present your work in a poster presentation or talk. This presentation will take place across two class meetings, and you must be present at both to receive full credit; if not, a 20% final project penalty will apply. Without an extension, project assignments submitted late, even by a few minutes, will be accepted with a 25% late point deduction within 24 hours of the due date. Project assignments submitted more than 24 hours after the due date will not be accepted for credit. If events outside your control impact completion of this assignment, you should meet with me to discuss options for a course incomplete. Maps to CLO1-3.
+## Project Milestone Assignments (15% of grade = 150 points)
+You will be asked to prepare a project on a topic of your interest. The points for preparing the project are divided into two milestone assignments, each worth 75 points. Each project milestone assignment will be scored according to the rubric on Canvas. Maps to CLO1-3.
+
+## Final Project (20% of grade = 200 points)
+The final project follows directly from the milestone assignments and is worth 200 points. More details about the project, including a rubric for grading, will be posted to Canvas during the semester. If events outside your control impact completion of this assignment, you should meet with me to discuss options for a course incomplete. Maps to CLO1-3.
 
 
-## Resubmission and Extensions Make-ups, and Grading Process {#makeup}
+## Late Assignments and Make-Ups {#makeup}
+Assignments are due as indicated on Canvas, and the deadlines are strict. Because of this, I encourage you to avoid submitting assignments in the last two hours before the due date whenever possible. Late activity assignments, reflection questions, and project milestone assignments will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception. **When you need an exception to the late assignment penalty, I need the request form completed as soon as you are able to complete it**. If you wait, I may not be able to grant your request.
 
-### You can request an extension.
+Class activities that are scheduled, such as a guest speaker, cannot be reasonabily recreated. If you need a makeup assignment (e.g., you will miss the talk needed to complete an assignment, or even if you had life events and could not focus on the talk), please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** as soon as you are aware of your need for a make-up and able to do so. If your circumstances warrant an exception, I will work with you to create an alternative assignment. Make-ups are intended for exceptional, unforeseen, and unavoidable circumstances. There is no need to pretend you attended an activity that you missed.
 
-Assignments not submitted by the due date posted on Canvas will be assigned a grade of zero unless you complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an extension or makeup of the assignment. When you need an extension, please complete this form as soon as you can. 
+### No assignment submission after the last day of instruction
+I can only accept assignments (except the final project) until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. 
 
-Even with an extension, I can accept assignments until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. Please allow extra time for me to grade late-submitted assignments.
+Because the final project occurs after the conclusion of the course, I cannot offer extensions on the final project. If events outside your control impact completion of this assignment, you should meet with me to discuss options for a course incomplete.
 
-### We will work together on make-ups of scheduled activities.
-
-Class activities that are scheduled, such as a guest speaker, cannot be recreated easily. If you need a makeup assignment (e.g., you will miss the talk needed to complete an assignment, or even if you had life events and could not focus on the talk), please contact me. I will work with you to create an alternative assignment. There is no need to pretend you attended an activity that you missed.
 
 ## Final examination or evaluation {#final}
 
 Faculty members are required to have a culminating activity for their courses, which can include a final examination, a final research paper or project, a final creative work or performance, a final portfolio of work, or other appropriate assignment.
 
-The culminating activity for this course will be the final presentation.
+The culminating activity for this course will be the final project presentation.
+
 
 # Classroom Environment {#environment}
 
@@ -206,7 +211,7 @@ We agree to:
 -	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
     + Affirming that ableism, classism, racism, sexism, transphobia, heterosexism, and xenophobia will not be acceptable in the physical and digital spaces that make up our course. 
   
-    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com, processed through search engines, or examined using analytic tools to detect academic dishonesty. However, I will not allow turnitin.com to store your work in their repository.
   
     + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
   
@@ -214,7 +219,7 @@ We agree to:
 
 - **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
 
--	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
+-	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, or hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
 
 -	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation by people of diverse backgrounds and experiences. To support this goal, this course will incorporate discussion of social justice when relevant to the course and support your evaluation of how our discipline has/can/will address social justice, as well as how it has contributed to social injustice. 
 
@@ -222,7 +227,7 @@ We agree to:
 
 Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
 
-You must obtain the instructor’s permission to make any audio or video recordings in this class.
+You must obtain the instructor’s permission to make any audio or video recordings in this class. Unless otherwise specified, course materials created by your instructor are copyrighted and cannot be redistributed.
 
 Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
 
@@ -230,79 +235,87 @@ Success in this course is based on the expectation that students will spend, for
 Our library liaison is Christa Bailey. Email: christa.bailey@sjsu.edu
 
 # Additional Information
-All assignments in this course should be submitted in APA format. The writing requirement is described above.
+APA format is preferred. The writing requirement is described above.
 
 # Course Schedule {#schedule}
 
-The course schedule is tentative and likely to change; modifications will be posted to this page.
+The course schedule is tentative and very likely to change; modifications will be posted to this page.
 
-------------------------------------------------------------------------------------------------------------------------------------------
-Week Date                   Topics                                                                      Textbook    Assignments
----- ---------------------- --------------------------------------------------------------------------  ----------- ----------------------
-1	    Tue., Aug. 23         Definitions and history                                                       Ch. 1          
+**See Canvas for all due dates**
 
-      Thu., Aug. 25	        
-      
-2	    Tue., Aug. 30         Human factors methods of practice                                             Ch. 2     Activity 1, cta
-      
-      Thu., Sep. 1	        
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Week Starting Date          Topics                                                                      Textbook    Assignments (see Canvas for due dates)
+---- ---------------------- --------------------------------------------------------------------------  ----------- --------------------------------------
+1	    Thu., Aug. 22         Introduction to human factors                                               Ch. 1             
 
-3	    Tue., Sep. 6          Guest speaker: Gabby Seropian, Google                                         Ch. 3       
-      
-      Thu., Sep. 8          Human factors scientific methods	        
+2	    Tue., Aug. 27         Human factors methods                                                       Ch. 2       Reflection 1
+
+      Thu., Aug. 29                                                                                                 Activity 1, cta
+    
+3	    Tue., Sep. 3          Human factors methods, continued       	                                    Ch. 3       Reflection 2
+
+      Thu., Sep. 5                                                                                                  Activity 2, metrics
  
-4	    Tue., Sep. 13         Human performance                                                             Ch. 4     Activity 2, waldo
+4	    Tue., Sep. 10         Human factors in driving and monitoring                                     Ch. 4       Reflection 3
 
-      Thu., Sep. 15	        
+      Thu., Sep. 12                                                                                                 Activity 3, waldo
 
-5	    Tue., Sep. 20         Cognitive factors                                                             Ch. 6     Activity 3, cardsort
+5	    Tue., Sep. 17         Cognitive engineering                                                       Ch. 6       Reflection 4
 
-      Thu., Sep. 22	        
+                            **Last day to drop or add**
+                            
+      Thu., Sep. 19                                                                                                 Activity 4, cardsort
 
-6	    Tue., Sep. 27         Decision making & macrocognition                                              Ch. 7     Activity 4, MAUT
+6	    Tue., Sep. 24         Automation: Artificial Intelligence                                         Ch. 11      Reflection 5
 
-      Thu., Sep. 29	        No class meeting, work on activity
-
-7	    Tue., Oct. 4          Human-computer interaction                                                    Ch. 10    Activity 5, prototype
-
-      Thu., Oct. 6	        
-
-8	    Tue., Oct. 11         [HFES](https://www.hfes.org) Conference Week, **No Class Meetings**                     Activity 6, article                                     
-      Thu., Oct. 13	        
-
-9	    Tue., Oct. 18         Stress, workload, and safety                                                  Ch. 15     Activity 7, reflection
-
-      Thu., Oct. 20	        Guest speaker: Evan Silverman, Google
-
-10	  Tue., Oct. 25         Displays & controls                                                           Ch. 8     Activity 8, heuristic                    
-
-      Thu., Oct. 27	        Guest speaker: Daniel Rosenberg, rCDO and SJSU
-
-11	  Tue., Nov. 1          Specific applications and careers                                                       Project milestone 1
-
-      Thu., Nov. 3	        Guest speaker: Thomas Alicia, U.S. Army Technology Development Directorate 
-
-12	  Tue., Nov. 8          Automation                                                                   Ch. 11     Activity 9, robots
-
-      Thu., Nov. 10	         
-
-13	  Tue., Nov. 15         Physical ergonomics & anthropometry                                          Ch. 12     Activity 10, physical
-
-      Thu., Nov. 17	        
-
-14	  Tue., Nov. 22         Project workshop meetings, No class meeting (Tue.)                                                                                         
-
-
-      Thu., Nov. 24	        Thanksgiving, No class meeting (Thu.)
-
-
-15	  Tue., Nov. 29         Training and job design                                                      Ch. 17     Activity 11, train    
-
-      Thu., Dec. 1	        
+      Thu., Sep. 26                                                                                                 Activity 5, AI 
       
-16    Tue., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm                            Project milestone 2
+7	    Tue., Oct. 1          Automation: Robotics                                                                    Reflection 6
 
-Final Thu., Dec. 8	        Project presentations, 2:45pm - 5:00pm                                                  Final project
+      Thu., Oct. 3                                                                                                  Activity 6, robots      
+      
+8	    Tue., Oct. 8          Decision making and macrocognition                                          Ch. 7       Reflection 7
+
+      Thu., Oct. 10                                                                                                 Activity 7, MAUT
+
+9	    Tue., Oct. 15         Human-computer interaction (HCI) and user experience (UX)                   Ch. 10      Reflection 8
+
+      Thu., Oct. 17                                                                                                 Activity 8, prototype
+      
+10	  Tue., Oct. 22         Sociotechnical systems                                                      Ch. 18      Reflection 9
+
+      Thu., Oct. 24                                                                                                 Activity 9, article
+
+11	  Tue., Oct. 29         Applied research                                                                        Project milestone 1
+
+      Thu., Oct. 31
+      
+12	  Tue., Nov. 5          Physical ergonomics & anthropometry                                         Ch. 12      Reflection 10
+
+      Thu., Nov. 7                                                                                                  Activity 10, physical
+      
+13	  Tue., Nov. 12         Displays and controls                                                       Ch. 8       Reflection 11
+
+      Thu., Nov. 14                                                                                                 Activity 11, heuristic      
+14	  Tue., Nov. 19         Stress, workload, and safety                                                Ch. 15      Reflection 12
+
+      Thu., Nov. 21                                                                                                 Activity 12
+
+15	  Tue., Nov. 26         Project workshop                  
+
+      Wed. Nov. 27          Non-instructional day
+
+      Thu. Nov. 28          **Thanksgiving holiday, campus closed**
+      
+      Fri. Nov. 29          Rescheduled holiday, campus closed
+
+16	  Tue., Dec. 3          Training and job design                                                     Ch. 17      Project milestone 2 
+
+      Thu., Dec. 5                                                                                                  Activity 13, train
+
+      Mon. Dec. 9           Last day of instruction, make-up assignment submission ends 11:59 pm                            
+      
+Final Wed., Dec. 11		      Project presentations due, 2:45 PM                                                      Final project
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
