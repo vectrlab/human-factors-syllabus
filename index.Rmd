@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -173,16 +173,16 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 
 # Course Requirements and Assignments {#assignments}
 
-## Activity Assignments (50% of grade = 500 points)
-Eleven activity assignments will be worth 50 points each, but the lowest one will be dropped. Each assignment will be graded according to the rubric posted to Canvas. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. Part of every class meeting most weeks will be dedicated to collaborative work on the activity and will require some preparation before class, attending and participating in the activity session, and completing and submitting of the assignment after class. Activities will be assigned most weeks and will typically be due immediately at the start of class on the following Tuesday. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. **You may not copy content written by other students or AI or chatbots (e.g., ChatGPT) to write your response to reflection questions, although you may use these tools to facilitate your learning.**. This is the difference between discussing and asking questions about your activity assignment, which is acceptable, and asking someone (or AI) to write your assignment for you, which is not acceptable and will be handled as academic dishonesty. That said, I will always encourage you to start with me for your questions, as AI tools are still emerging and can be unreliable. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps to CLO1-3.
+## Activity Assignments (48% of grade = 480 points)
+Thirteen activity assignments will be worth 40 points each, but the lowest one will be dropped. Each assignment will be graded according to the rubric posted to Canvas. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. Part of every class meeting most weeks will be dedicated to collaborative work on the activity and will require some preparation before class, attending and participating in the activity session, and completing and submitting of the assignment after class. Activities will be assigned most weeks and will typically be due immediately at the start of class on the following Tuesday. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. **You may not copy content written by other students or AI or chatbots (e.g., ChatGPT) to write your response to reflection questions, although you may use these tools to facilitate your learning.**. This is the difference between discussing and asking questions about your activity assignment, which is acceptable, and asking someone (or AI) to write your assignment for you, which is not acceptable and will be handled as academic dishonesty. That said, I will always encourage you to start with me for your questions, as AI tools are still emerging and can be unreliable. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps to CLO1-3.
 
-## Reflection Assignments (15% of grade = 150 points)
-Eleven reflection assignments are worth 15 points each, but the lowest one will be dropped. The purpose of the reflection assignments are to help you think actively about the lecture and textbook content and connect it to your own experience. Part of every class meeting most weeks will be dedicated to collaborative work on the reflection assignment, and you must be present in class to complete it. This is graded for completion; it is okay to not have the right answer, but it does need to reflect your thinking about the material. **Reflection questions must be written entirely using your own words, and you may not use AI or chatbots (e.g., ChatGPT) to write your response to reflection questions**.  This is because the goal of this assignment is for you to think about the material as you write. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps onto CLOs 1-3.
+## Reflection Assignments (16.8% of grade = 168 points)
+Thirteen reflection assignments are worth 14 points each, but the lowest one will be dropped. The purpose of the reflection assignments are to help you think actively about the lecture and textbook content and connect it to your own experience. Part of every class meeting most weeks will be dedicated to collaborative work on the reflection assignment, and you must be present in class to complete it. This is graded for completion; it is okay to not have the right answer, but it does need to reflect your thinking about the material. **Reflection questions must be written entirely using your own words, and you may not use AI or chatbots (e.g., ChatGPT) to write your response to reflection questions**.  This is because the goal of this assignment is for you to think about the material as you write. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps onto CLOs 1-3.
 
 ## Project Milestone Assignments (15% of grade = 150 points)
 You will be asked to prepare a project on a topic of your interest. The points for preparing the project are divided into two milestone assignments, each worth 75 points. Each project milestone assignment will be scored according to the rubric on Canvas. Maps to CLO1-3.
 
-## Final Project (20% of grade = 200 points)
+## Final Project (20% of grade = 202 points)
 The final project follows directly from the milestone assignments and is worth 200 points. More details about the project, including a rubric for grading, will be posted to Canvas during the semester. If events outside your control impact completion of this assignment, you should meet with me to discuss options for a course incomplete. Maps to CLO1-3.
 
 
@@ -288,7 +288,7 @@ Week Starting Date          Topics                                              
 
 11	  Tue., Oct. 29         Applied research                                                                        Project milestone 1
 
-      Thu., Oct. 31
+      Thu., Oct. 31                                                                                                  
       
 12	  Tue., Nov. 5          Physical ergonomics & anthropometry                                         Ch. 12      Reflection 10
 
@@ -312,6 +312,8 @@ Week Starting Date          Topics                                              
 16	  Tue., Dec. 3          Training and job design                                                     Ch. 17      Project milestone 2 
 
       Thu., Dec. 5                                                                                                  Activity 13, train
+      
+                                                                                                                    Reflection 13
 
       Mon. Dec. 9           Last day of instruction, make-up assignment submission ends 11:59 pm                            
       
