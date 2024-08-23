@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -58,7 +58,7 @@ The catalog description of this course is: Human psychology and physiological ch
 
 ## Course Format
 
-This is an asynchronous online course. That means that you will complete each week's material at your own pace.
+This is class is offered in person.
 
 
 # Learning Outcomes {#learningoutcomes}
