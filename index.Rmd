@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -252,13 +252,17 @@ Week Starting Date          Topics                                              
          
       Thu., Aug. 29                                                                                                      Activity 1, cta
     
-3	    Tue., Sep. 3          Human factors methods, continued       	                                         Ch. 3       Reflection 2
+3	    Tue., Sep. 3          No class meetings                      	                                          
 
-      Thu., Sep. 5                                                                                                       Activity 2, metrics
+      Thu., Sep. 5                                                                                                        
+      
+4	    Tue., Sep. 10         Human factors methods, continued       	                                         Ch. 3       Reflection 2
+
+      Thu., Sep. 12                                                                                                      Activity 2, metrics
  
-4	    Tue., Sep. 10         Human factors in driving and monitoring                                          Ch. 4       Reflection 3
+X	    TBD                   Human factors in driving and monitoring                                          Ch. 4       Reflection 3
 
-      Thu., Sep. 12                                                                                                      Activity 3, waldo
+      TBD                                                                                                                Activity 3, waldo
 
 5	    Tue., Sep. 17         Cognitive engineering                                                            Ch. 6       Reflection 4
 
