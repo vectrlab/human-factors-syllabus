@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
-  pdf_document:
-    toc: false
   html_document:
     toc: true
     theme: united
+  pdf_document:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -243,68 +243,67 @@ The course schedule is tentative and very likely to change; modifications will b
 
 **See Canvas for all due dates**
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-Week Starting Date          Topics                                                                           Textbook    Assignments (see Canvas for due dates)
----- ---------------------- -------------------------------------------------------------------------------- ----------- --------------------------------------
-1	    Thu., Aug. 22         Introduction to human factors                                                    Ch. 1             
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Week Starting Date          Topics                                                                            Textbook    Assignments (see Canvas for due dates)
+---- ---------------------- --------------------------------------------------------------------------------- ----------- --------------------------------------
+1	    Thu., Aug. 22         Introduction to human factors                                                     Ch. 1             
 
-2	    Tue., Aug. 27         Human factors methods                                                            Ch. 2       Reflection 1
+2	    Tue., Aug. 27         Human factors methods                                                             Ch. 2       Reflection 1
          
-      Thu., Aug. 29                                                                                                      Activity 1, cta
+      Thu., Aug. 29                                                                                                       Activity 1, cta
     
 3	    Tue., Sep. 3          No class meetings                      	                                          
 
       Thu., Sep. 5                                                                                                        
       
-4	    Tue., Sep. 10         Human factors methods, continued       	                                         Ch. 3       Reflection 2
+4	    Tue., Sep. 10         Human factors methods, continued       	                                          Ch. 3       Reflection 2
 
-      Thu., Sep. 12                                                                                                      Activity 2, metrics
+      Thu., Sep. 12                                                                                                       Activity 2, metrics
  
-X	    TBD                   Human factors in driving and monitoring                                          Ch. 4       Reflection 3
-
-      TBD                                                                                                                Activity 3, waldo
-
-5	    Tue., Sep. 17         Cognitive engineering                                                            Ch. 6       Reflection 4
+5	    Tue., Sep. 17         Human factors in driving and monitoring                                           Ch. 4       Reflection 3
 
                             **Last day to drop or add**
                             
-      Thu., Sep. 19                                                                                                      Activity 4, cardsort
+      Thu., Sep. 19                                                                                                       Activity 3, waldo
 
-6	    Tue., Sep. 24         Automation: Artificial Intelligence                                              Ch. 11      Reflection 5
+6	    Tue., Sep. 24         Guest: [Cassie Hilditch](https://hsi.arc.nasa.gov/groups/fatigue/personnel.php),  Ch. 6       Reflection 4
+                            SJSU Fatigue Countermeasures Laboratory, NASA Ames Research Center
+                            
+      Thu., Sep. 26         Cognitive engineering                                                                         Activity 4, cardsort
 
-      Thu., Sep. 26                                                                                                      Activity 5, AI 
+7	    Tue., Oct. 1          Automation: Robotics & Artificial Intelligence                                    Ch. 11      Reflection 5
+
+      Thu., Oct. 3                                                                                                        Activity 5, robots      
       
-7	    Tue., Oct. 1          Automation: Robotics                                                                         Reflection 6
+8	    Tue., Oct. 8          Decision making and macrocognition                                                Ch. 7       Reflection 6
 
-      Thu., Oct. 3                                                                                                       Activity 6, robots      
+      Thu., Oct. 10                                                                                                       Activity 6, MAUT
       
-8	    Tue., Oct. 8          Decision making and macrocognition                                               Ch. 7       Reflection 7
+                                                                                                                          Activity 7, decision aid
+ 
+9	    Tue., Oct. 15         Human-computer interaction (HCI) and user experience (UX)                         Ch. 10      Reflection 7
 
-      Thu., Oct. 10                                                                                                      Activity 7, MAUT
-
-9	    Tue., Oct. 15         Human-computer interaction (HCI) and user experience (UX)                        Ch. 10      Reflection 8
-
-      Thu., Oct. 17                                                                                                      Activity 8, prototype
+      Thu., Oct. 17                                                                                                       Activity 8, prototype
       
-10	  Tue., Oct. 22         Sociotechnical systems                                                           Ch. 18      Reflection 9
+10	  Tue., Oct. 22         Sociotechnical systems                                                            Ch. 18      Reflection 8
 
-      Thu., Oct. 24         Guest lecture: [Bei Yang](https://www.linkedin.com/in/bei-yang-91508a32/), Meta              Activity 9, presentation
+      Thu., Oct. 24         Guest lecture: [Bei Yang](https://www.linkedin.com/in/bei-yang-91508a32/), Meta               Activity 9, presentation
 
-11	  Tue., Oct. 29         Applied research                                                                             Project milestone 1
+11	  Tue., Oct. 29         Applied research                                                                              Reflection 9
 
-      Thu., Oct. 31                                                                                                  
+      Thu., Oct. 31                                                                                                       Project milestone 1
       
-12	  Tue., Nov. 5          Physical ergonomics & anthropometry                                              Ch. 12      Reflection 10
+12	  Tue., Nov. 5          Physical ergonomics & anthropometry                                               Ch. 12      Reflection 10
 
-      Thu., Nov. 7                                                                                                       Activity 10, physical
+      Thu., Nov. 7                                                                                                        Activity 10, physical
       
-13	  Tue., Nov. 12         Displays and controls                                                            Ch. 8       Reflection 11
+13	  Tue., Nov. 12         Displays and controls                                                             Ch. 8       Reflection 11
 
-      Thu., Nov. 14                                                                                                      Activity 11, heuristic  
+      Thu., Nov. 14                                                                                                       Activity 11, heuristic  
       
-14	  Tue., Nov. 19         Stress, workload, and safety                                                     Ch. 15      Reflection 12
+14	  Tue., Nov. 19         Stress, workload, and safety                                                      Ch. 15      Reflection 12
 
-      Thu., Nov. 21                                                                                                      Activity 12
+      Thu., Nov. 21                                                                                                       Activity 12
 
 15	  Tue., Nov. 26         Project workshop                  
 
@@ -314,15 +313,15 @@ X	    TBD                   Human factors in driving and monitoring             
       
       Fri. Nov. 29          Rescheduled holiday, campus closed
 
-16	  Tue., Dec. 3          Training and job design                                                          Ch. 17      Project milestone 2 
+16	  Tue., Dec. 3          Training and job design                                                           Ch. 17      Project milestone 2 
 
-      Thu., Dec. 5                                                                                                       Activity 13, train
+      Thu., Dec. 5                                                                                                        Activity 13, train
       
-                                                                                                                         Reflection 13
+                                                                                                                          Reflection 13
 
       Mon. Dec. 9           Last day of instruction, make-up assignment submission ends 11:59 pm                            
       
-Final Wed., Dec. 11		      Project presentations due, 2:45 PM                                                           Final project
+Final Wed., Dec. 11		      Project presentations due, 2:45 PM                                                            Final project
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
