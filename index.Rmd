@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -303,8 +303,8 @@ Week Starting Date          Topics                                              
       
 14	  Tue., Nov. 19         Stress, workload, and safety                                                      Ch. 15      Reflection 12
 
-      Thu., Nov. 21                                                                                                       Activity 12
-
+      Thu., Nov. 21         Guest lecture: Randall Mumaw, NASA Ames                                                       Activity 12
+                         
 15	  Tue., Nov. 26         Project workshop                  
 
       Wed. Nov. 27          Non-instructional day
