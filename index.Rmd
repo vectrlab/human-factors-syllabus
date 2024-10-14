@@ -5,10 +5,10 @@ output:
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
   word_document:
     toc: true
+  pdf_document:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
