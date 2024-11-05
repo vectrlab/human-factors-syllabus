@@ -2,13 +2,13 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
-  html_document:
-    toc: true
-    theme: united
   word_document:
     toc: true
   pdf_document:
     toc: false
+  html_document:
+    toc: true
+    theme: united
 ---
 
 ```{r setup, include=FALSE}
@@ -299,7 +299,7 @@ Week Starting Date          Topics                                              
       
 13	  Tue., Nov. 12         Displays and controls                                                             Ch. 8       Reflection 11
 
-      Thu., Nov. 14                                                                                                       Activity 11, heuristic  
+      Thu., Nov. 14         No required class meeting Thurs., work on activity                                            Activity 11, heuristic  
       
 14	  Tue., Nov. 19         Stress, workload, and safety                                                      Ch. 15      Reflection 12
 
