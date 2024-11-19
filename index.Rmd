@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
-  pdf_document:
-    toc: false
   html_document:
     toc: true
     theme: united
+  pdf_document:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -313,9 +313,9 @@ Week Starting Date          Topics                                              
       
       Fri. Nov. 29          Rescheduled holiday, campus closed
 
-16	  Tue., Dec. 3          Training and job design                                                           Ch. 17      Activity 13, train 
+16	  Tue., Dec. 3          Training and job design                                                           Ch. 17      Reflection 13
 
-      Thu., Dec. 5                                                                                                        Reflection 13
+      Thu., Dec. 5                                                                                                        Activity 13, train 
 
       Mon. Dec. 9           Last day of instruction, make-up assignment submission ends 11:59 pm                            
       
