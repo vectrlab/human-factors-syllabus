@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
-  pdf_document:
-    toc: false
   html_document:
     toc: true
     theme: united
+  pdf_document:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -189,7 +189,7 @@ The final project follows directly from the milestone assignments and is worth 2
 ## Late Assignments and Make-Ups {#makeup}
 Assignments are due as indicated on Canvas, and the deadlines are strict. Because of this, I encourage you to avoid submitting assignments in the last two hours before the due date whenever possible. Late activity assignments and project milestone assignments will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception. **When you need an exception to the late assignment penalty, I need the request form completed as soon as you are able to complete it**. If you wait, I may not be able to grant your request.
 
-Class activities that are scheduled, such as reflection assignments, in-class activities, and guest speakers, cannot be reasonably recreated. If you need a makeup assignment (e.g., you will miss the talk needed to complete an assignment, or even if you had life events and could not focus on the talk), please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** as soon as you are aware of your need for a make-up and able to do so. If your circumstances warrant an exception, I will work with you to create an alternative assignment. Make-ups are intended for exceptional, unforeseen, and unavoidable circumstances. There is no need to pretend you attended an activity that you missed.
+Class activities that are scheduled, such as reflection assignments, in-class activities, and guest speakers, cannot be reasonably recreated. If you need a makeup assignment (e.g., you will miss the talk needed to complete an assignment, or even if you had life events and could not focus on the talk), please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** as soon as you are aware of your need for a make-up and able to do so. If your circumstances warrant an exception, I will work with you to create an alternative assignment. Make-ups and exceptions are intended for exceptional, unforeseen, and unavoidable circumstances. There is no need to pretend you attended an activity that you missed.
 
 ### No assignment submission after the last day of instruction
 I can only accept assignments (except the final project) until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. 
@@ -249,78 +249,76 @@ Week Starting Date          Topics                                              
 ---- ---------------------- --------------------------------------------------------------------------------- ----------- --------------------------------------
 1	    Thu., Jan. 23         Introduction to human factors                                                     Ch. 1             
 
-2	    Tue., Jan. 28        Human factors methods                                                             Ch. 2       Reflection 1
+2	    Tue., Jan. 28         Human factors methods                                                             Ch. 2       Reflection 1
          
-      Thu., Aug. 29                                                                                                       Activity 1, cta
+      Thu., Jan. 30                                                                                                       Activity 1, cta
     
-3	    Tue., Sep. 3          No class meetings                      	                                          
+3	    Tue., Feb. 4          Human factors methods, continued       	                                          Ch. 3       Reflection 2                        	                                          
 
-      Thu., Sep. 5                                                                                                        
+      Thu., Feb. 6                                                                                                        Activity 2, metrics
       
-4	    Tue., Sep. 10         Human factors methods, continued       	                                          Ch. 3       Reflection 2
+4	    Tue., Feb. 11         Human factors in driving and monitoring                                           Ch. 4       Reflection 3
 
-      Thu., Sep. 12                                                                                                       Activity 2, metrics
+      Thu., Feb. 13                                                                                                       Activity 3, waldo
  
-5	    Tue., Sep. 17         Human factors in driving and monitoring                                           Ch. 4       Reflection 3
+5	    Tue., Feb. 18         Cognitive engineering                                                             Ch. 6       Reflection 4             
+
+      Thu., Feb. 20         TBD                                                                                           Activity 4, cardsort
+
+                      
 
                             **Last day to drop or add**
                             
-      Thu., Sep. 19                                                                                                       Activity 3, waldo
-
-6	    Tue., Sep. 24         Guest: [Cassie Hilditch](https://hsi.arc.nasa.gov/groups/fatigue/personnel.php),  Ch. 6       Reflection 4
-                            SJSU Fatigue Countermeasures Laboratory, NASA Ames Research Center
+6	    Tue., Feb. 25         Automation: Robotics & Artificial Intelligence                                    Ch. 11      Reflection 5 
                             
-      Thu., Sep. 26         Cognitive engineering                                                                         Activity 4, cardsort
+      Thu., Feb. 27                                                                                                       Activity 5, robots      
 
-7	    Tue., Oct. 1          Automation: Robotics & Artificial Intelligence                                    Ch. 11      Reflection 5
+7	    Tue., Mar. 4          Decision making and macrocognition                                                Ch. 7       Reflection 6
 
-      Thu., Oct. 3                                                                                                        Activity 5, robots      
-      
-8	    Tue., Oct. 8          Decision making and macrocognition                                                Ch. 7       Reflection 6
-
-      Thu., Oct. 10                                                                                                       Activity 6, MAUT
-      
+      Thu., Mar. 6                                                                                                        Activity 6, MAUT
                                                                                                                           Activity 7, decision aid
+      
+8	    Tue., Mar. 11         Human-computer interaction (HCI) and user experience (UX)                         Ch. 10      Reflection 7
+
+      Thu., Mar. 13                                                                                                       Activity 8, prototype
+      
+                                                                                                                          
  
-9	    Tue., Oct. 15         Human-computer interaction (HCI) and user experience (UX)                         Ch. 10      Reflection 7
+9	    Tue., Mar. 18         Sociotechnical systems                                                             Ch. 18     Reflection 8 
 
-      Thu., Oct. 17                                                                                                       Activity 8, prototype
+      Thu., Mar. 20                                                                                                       Activity 9
       
-10	  Tue., Oct. 22         Sociotechnical systems                                                            Ch. 18      Reflection 8
+10	  Tue., Mar. 25         Applied research                                                                              Reflection 9
 
-      Thu., Oct. 24         Guest lecture: [Bei Yang](https://www.linkedin.com/in/bei-yang-91508a32/), Meta               Activity 9, presentation
+      Thu., Mar. 27                                                                                                       Project milestone 1
 
-11	  Tue., Oct. 29         Applied research                                                                              Reflection 9
+11	  Tue., Apr. 1          ***Spring Recess*** 
 
-      Thu., Oct. 31                                                                                                       Project milestone 1
+      Thu., Apr. 3
       
-12	  Tue., Nov. 5          Physical ergonomics & anthropometry                                               Ch. 12      Reflection 10
+12	  Tue., Apr. 8          Physical ergonomics & anthropometry                                                Ch. 12     Reflection 10
 
-      Thu., Nov. 7                                                                                                        Activity 10, physical
+      Thu., Apr. 10                                                                                                       Activity 10, physical
       
-13	  Tue., Nov. 12         Displays and controls                                                             Ch. 8       Reflection 11
+13	  Tue., Apr. 15         Displays and controls                                                              Ch. 8      Reflection 11
 
-      Thu., Nov. 14         No required class meeting Thurs., work on activity                                            Activity 11, heuristic  
+      Thu., Apr. 17         No required class meeting Thurs., work on activity                                            Activity 11, heuristic  
       
-14	  Tue., Nov. 19         Stress, workload, and safety                                                      Ch. 15      Reflection 12
+14	  Tue., Apr. 22         Stress, workload, and safety                                                       Ch. 15     Reflection 12
 
-      Thu., Nov. 21         Guest lecture: Randall Mumaw, NASA Ames                                                       Activity 12
+      Thu., Apr. 24         TBD                                                                                           Activity 12 
                          
-15	  Tue., Nov. 26         Project workshop                                                                              Project milestone 2
+15	  Tue., Apr. 29         Project workshop                                                                              Project milestone 2
 
-      Wed. Nov. 27          Non-instructional day
+      Thu., May. 1           
 
-      Thu. Nov. 28          **Thanksgiving holiday, campus closed**
+16	  Tue., May. 6          Training and job design                                                            Ch. 17     Reflection 13
+
+      Thu., May. 8                                                                                                        Activity 13, train 
+
+      Mon., May 12          Last day of instruction, make-up assignment submission ends 11:59 pm
       
-      Fri. Nov. 29          Rescheduled holiday, campus closed
-
-16	  Tue., Dec. 3          Training and job design                                                           Ch. 17      Reflection 13
-
-      Thu., Dec. 5                                                                                                        Activity 13, train 
-
-      Mon., May 12         Last day of instruction, make-up assignment submission ends 11:59 pm
-      
-Final Tue., May 20		      Project presentations due, poster session 1:00 PM to 3:00 PM                                 Final project
+Final Tue., May 20		      Project presentations due, poster session 1:00 PM to 3:00 PM                                  Final project
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
