@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
-  pdf_document:
-    toc: false
   html_document:
     toc: true
     theme: united
+  pdf_document:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -180,13 +180,13 @@ It is my goal to help prepare you to use AI effectively, safely, and ethically. 
 
   - **Disclose your AI use in assignments**: To avoid academic dishonesty, you must disclose your use of AI tools in all submitted work. This includes detailing how and why the tools were used, either as a brief note or as part of the assignment. If you do not disclose your AI use, you are representing that you were the sole author of the submitted work. 
   
-  - **Observe assignment-level restrictions on AI **: Some assignment categories have limits on AI use. This is to avoid making the assignment a waste of a time. For example, if you have AI take a quiz for you, you are missing an opportunity for practice and feedback.
+  - **Observe assignment-level restrictions on AI **: Some assignment categories have limits on AI use. This is to avoid making the assignment a waste of your time. For example, if you have AI take a quiz for you, you are missing an opportunity for practice and feedback.
   
   - **Take responsibility for AI accuracy**: AI tools make mistakes. You are responsible for the accuracy of anything you generate with AI. Because of this, you should not trust anything the AI generates. This makes AI better for brainstorming ideas, suggesting topics, drafting an outline, or recommending citations. Any claims made by the AI should be verified with another source. I may reduce your grade or ignore parts of your assignments that contain AI-generated misinformation.
   
-  - **Take care with  privacy and intellectual property**: Read the privacy policy for any AI tool you use, and be aware that many of them record everything you submit, associate it with your identity, and then can retain and use these data for nearly any purpose. If your computer supports it, I highly recommend running local AI models that do not send your information to the cloud, such as [gpt4all](gpt4all.io). My course materials are copyrighted and are my intellectual property. You may not upload, post, or share any of my course materials with any AI or any website.
+  - **Take care with  privacy and intellectual property**: Read the privacy policy for any AI tool you use, and be aware that many of them record everything you submit, associate it with your identity, and then can retain and use these data for nearly any purpose. If your computer supports it, I highly recommend running local AI models that do not send your information to the cloud, such as [gpt4all](gpt4all.io). My course materials are copyrighted and are my intellectual property. You may not upload, post, or share any of my course materials with any online AI or any website.
 
-  - I may ask to meet with you to discuss your submitted assignments before assigning the grade. Minor violations (e.g., you misused AI on an assignment, but you were honest and disclosed it) may require re-submission of the assignment, a written warning, and a late penalty. Major violations (e.g., failing to disclose AI use or repeated violations) may result in referral to the academic integrity office and academic sanctions in this course, which can include failure of the course.
+  - I may ask to meet with you to discuss your submitted assignments before I will assign credit. Minor violations (e.g., you misused AI on an assignment, but you were honest and disclosed it) may require re-submission of the assignment, a written warning, and/or a late penalty. Major violations (e.g., failing to disclose AI use or repeated violations) may result in referral to the academic integrity office and academic sanctions in this course, which can include failure of the course.
 
 
 ## Activity Assignments (48% of grade = 480 points)
@@ -283,11 +283,9 @@ Week Starting Date          Topics                                              
  
 5	    Tue., Feb. 18         Cognitive engineering                                                             Ch. 6       Reflection 4             
 
-      Thu., Feb. 20         TBD                                                                                           Activity 4, cardsort
-
-                      
-
                             **Last day to drop or add**
+                            
+      Thu., Feb. 20                                                                                                       Activity 4, cardsort
                             
 6	    Tue., Feb. 25         Automation: Robotics & Artificial Intelligence                                    Ch. 11      Reflection 5 
                             
@@ -302,11 +300,10 @@ Week Starting Date          Topics                                              
 
       Thu., Mar. 13                                                                                                       Activity 8, prototype
       
-                                                                                                                          
  
 9	    Tue., Mar. 18         Sociotechnical systems                                                             Ch. 18     Reflection 8 
 
-      Thu., Mar. 20                                                                                                       Activity 9
+      Thu., Mar. 20                                                                                                       Activity 9, article
       
 10	  Tue., Mar. 25         Applied research                                                                              Reflection 9
 
@@ -322,11 +319,11 @@ Week Starting Date          Topics                                              
       
 13	  Tue., Apr. 15         Displays and controls                                                              Ch. 8      Reflection 11
 
-      Thu., Apr. 17         No required class meeting Thurs., work on activity                                            Activity 11, heuristic  
+      Thu., Apr. 17                                                                                                       Activity 11, heuristic  
       
-14	  Tue., Apr. 22         Stress, workload, and safety                                                       Ch. 15     Reflection 12
+14	  Tue., Apr. 22         Safety, Stress, workload, & vigilance                                              Ch. 15     Reflection 12
 
-      Thu., Apr. 24         TBD                                                                                           Activity 12 
+      Thu., Apr. 24                                                                                                       Activity 12, TBD 
                          
 15	  Tue., Apr. 29         Project workshop                                                                              Project milestone 2
 
@@ -337,9 +334,12 @@ Week Starting Date          Topics                                              
       Thu., May. 8                                                                                                        Activity 13, train 
 
       Mon., May 12          Last day of instruction, make-up assignment submission ends 11:59 pm
+
+      Tue., May 19		      Project presentations due on Canvas                                                           Final project
       
-Final Tue., May 20		      Project presentations due, poster session 1:00 PM to 3:00 PM                                  Final project
-------------------------------------------------------------------------------------------------------------------------------------------
+Final Tue., May 20		      Poster session 1:00 PM to 3:00 PM                                                             Final project
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
