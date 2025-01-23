@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -173,11 +173,31 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 
 # Course Requirements and Assignments {#assignments}
 
+## AI Policy
+It is my goal to help prepare you to use AI effectively, safely, and ethically. Our course needs an AI policy to help you learn about AI while preventing it from sabotaging your learning. When I say AI or LLM in this class, I mean any and all of these: AI chatbots such as ChatGPT, Google Gemini, Claude, Meta AI; AI code generators such as GitHub Copilot, Tabnine; AI-enhanced presentation tools such as Gamma, Canva, Prezi; and AI-enhanced proofing tools such as Grammarly.
+
+  - **AI use is not required in this class**: If AI use is suggested in any assignment, I will make an alternative method available that does not require AI. If you do not see one listed, please ask me.
+
+  - **Disclose your AI use in assignments**: To avoid academic dishonesty, you must disclose your use of AI tools in all submitted work. This includes detailing how and why the tools were used, either as a brief note or as part of the assignment. If you do not disclose your AI use, you are representing that you were the sole author of the submitted work. 
+  
+  - **Observe assignment-level restrictions on AI **: Some assignment categories have limits on AI use. This is to avoid making the assignment a waste of a time. For example, if you have AI take a quiz for you, you are missing an opportunity for practice and feedback.
+  
+  - **Take responsibility for AI accuracy**: AI tools make mistakes. You are responsible for the accuracy of anything you generate with AI. Because of this, you should not trust anything the AI generates. This makes AI better for brainstorming ideas, suggesting topics, drafting an outline, or recommending citations. Any claims made by the AI should be verified with another source. I may reduce your grade or ignore parts of your assignments that contain AI-generated misinformation.
+  
+  - **Take care with  privacy and intellectual property**: Read the privacy policy for any AI tool you use, and be aware that many of them record everything you submit, associate it with your identity, and then can retain and use these data for nearly any purpose. If your computer supports it, I highly recommend running local AI models that do not send your information to the cloud, such as [gpt4all](gpt4all.io). My course materials are copyrighted and are my intellectual property. You may not upload, post, or share any of my course materials with any AI or any website.
+
+  - I may ask to meet with you to discuss your submitted assignments before assigning the grade. Minor violations (e.g., you misused AI on an assignment, but you were honest and disclosed it) may require re-submission of the assignment, a written warning, and a late penalty. Major violations (e.g., failing to disclose AI use or repeated violations) may result in referral to the academic integrity office and academic sanctions in this course, which can include failure of the course.
+
+
 ## Activity Assignments (48% of grade = 480 points)
-Thirteen activity assignments will be worth 40 points each, but the lowest one will be dropped. Each assignment will be graded according to the rubric posted to Canvas. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. Part of every class meeting most weeks will be dedicated to collaborative work on the activity and will require some preparation before class, attending and participating in the activity session, and completing and submitting of the assignment after class. Activities will be assigned most weeks and will typically be due immediately at the start of class on the following Tuesday. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. **You may not copy content written by other students or AI or chatbots (e.g., ChatGPT) to write your response to reflection questions, although you may use these tools to facilitate your learning.**. This is the difference between discussing and asking questions about your activity assignment, which is acceptable, and asking someone (or AI) to write your assignment for you, which is not acceptable and will be handled as academic dishonesty. That said, I will always encourage you to start with me for your questions, as AI tools are still emerging and can be unreliable. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps to CLO1-3.
+Thirteen activity assignments will be worth 40 points each, but the lowest one will be dropped. Each assignment will be graded according to the rubric posted to Canvas. The activities are designed to give you hands-on practice with the techniques and ideas discussed in the lecture and readings. Part of every class meeting most weeks will be dedicated to collaborative work on the activity and will require some preparation before class, attending and participating in the activity session, and completing and submitting of the assignment after class. Activities will be assigned most weeks and will typically be due immediately at the start of class on the following Tuesday. Maps to CLO1-3.
+
+AI restriction: You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. **You may not copy content written by other students or AI or chatbots (e.g., ChatGPT) to write your activity report, although you may use these tools to facilitate your learning.**. This is the difference between discussing and asking questions about your activity assignment, which is acceptable, and asking someone (or AI) to write your assignment for you, which is not acceptable and will be handled as academic dishonesty. An exception to this will occur when data collection is done in a group. In that case, it is fine to share data across group members. See the AI policy, above.
 
 ## Reflection Assignments (16.8% of grade = 168 points)
-Thirteen reflection assignments are worth 14 points each, but the lowest one will be dropped. The purpose of the reflection assignments are to help you think actively about the lecture and textbook content and connect it to your own experience. Part of every class meeting most weeks will be dedicated to collaborative work on the reflection assignment, and you must be present in class to complete it. This is graded for completion; it is okay to not have the right answer, but it does need to reflect your thinking about the material. **Reflection questions must be written entirely using your own words, and you may not use AI or chatbots (e.g., ChatGPT) to write your response to reflection questions**.  This is because the goal of this assignment is for you to think about the material as you write. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Maps onto CLOs 1-3.
+Thirteen reflection assignments are worth 14 points each, but the lowest one will be dropped. The purpose of the reflection assignments are to help you think actively about the lecture and textbook content and connect it to your own experience. Part of every class meeting most weeks will be dedicated to collaborative work on the reflection assignment, and you must be present in class to complete it. This is graded for completion; it is okay to not have the right answer, but it does need to reflect your thinking about the material. Maps onto CLOs 1-3.
+
+AI restriction: **Reflection questions must be written entirely using your own words, and you may not use AI or chatbots (e.g., ChatGPT) to write your response to reflection questions**.  This is because the goal of this assignment is for you to think about the material as you write. See the AI policy, above.
 
 ## Project Milestone Assignments (15% of grade = 150 points)
 You will be asked to prepare a project on a topic of your interest. The points for preparing the project are divided into two milestone assignments, each worth 75 points. Each project milestone assignment will be scored according to the rubric on Canvas. Maps to CLO1-3.
