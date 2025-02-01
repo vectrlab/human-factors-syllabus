@@ -2,13 +2,13 @@
 title: "Syllabus"
 book_filename: psyc173
 output:
-  word_document:
-    toc: true
   html_document:
     toc: true
     theme: united
   pdf_document:
     toc: false
+  word_document:
+    toc: true
 ---
 
 ```{r setup, include=FALSE}
@@ -305,9 +305,9 @@ Week Starting Date          Topics                                              
 
       Thu., Mar. 20                                                                                                       Activity 9, article
       
-10	  Tue., Mar. 25         Applied research                                                                              Reflection 9
+10	  Tue., Mar. 25         Introducing the project                                                                       Reflection 9
 
-      Thu., Mar. 27                                                                                                       Project milestone 1
+      Thu., Mar. 27         Guest speaker, Randall Mumaw, NASA Ames                                                       Project milestone 1
 
 11	  Tue., Apr. 1          ***Spring Recess*** 
 
@@ -321,9 +321,9 @@ Week Starting Date          Topics                                              
 
       Thu., Apr. 17                                                                                                       Activity 11, heuristic  
       
-14	  Tue., Apr. 22         Safety, Stress, workload, & vigilance                                              Ch. 15     Reflection 12
+14	  Tue., Apr. 22         Guest speaker, Cassie Hilditch, NASA Ames                                          Ch. 15     Activity 12, speaker 
 
-      Thu., Apr. 24                                                                                                       Activity 12, TBD 
+      Thu., Apr. 24         Safety, Stress, workload, & vigilance                                                         Reflection 12
                          
 15	  Tue., Apr. 29         Project workshop                                                                              Project milestone 2
 
