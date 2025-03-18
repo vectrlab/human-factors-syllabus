@@ -4,11 +4,11 @@ book_filename: psyc173
 output:
   word_document:
     toc: true
+  pdf_document:
+    toc: false
   html_document:
     toc: true
     theme: united
-  pdf_document:
-    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -300,8 +300,7 @@ Week Starting Date          Topics                                              
 
       Thu., Mar. 13                                                                                                       Activity 8, prototype
       
- 
-9	    Tue., Mar. 18         Sociotechnical systems                                                             Ch. 18     Reflection 8 
+9	    Tue., Mar. 18         Applications of HF/E                                                              Ch. 18      Reflection 8 
 
       Thu., Mar. 20         Guest speaker, Bei Yang, Meta                                                                 Activity 9, speaker
       
